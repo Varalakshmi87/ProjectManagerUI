@@ -1,0 +1,21 @@
+.example-container{
+    display: flex;
+    flex-direction: column;
+    min-width: 250;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.example-header{
+    min-height: 50px;
+    padding: 5px 15px 0;
+}
+
+.mat-form-field
+{
+font-size: 13px;
+width: 90%;    
+}
+.mat-table{
+    overflow:auto;
+    max-height: 450px;
+}
