@@ -10,7 +10,7 @@ export class Task{
     public EndDate?: Date;
     public Priority?:number;
     public Userid?: number;
-
+    public Status?:string;
     public ProjectName?: string;
     public ParentTaskName?: string;
     public TaskUserName?: string;
